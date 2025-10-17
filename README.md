@@ -94,6 +94,9 @@ onDateTimeChanged: (DateTime newDate) {
 
 Some parts of this code were inspired by Flutter documentation and community tutorials on [flutter.dev](https://api.flutter.dev/flutter/cupertino/CupertinoDatePicker-class.html).
 
+I also used the guidance from the tutorial:
+Flutter Cupertino Date and Time Picker Tutorial by Johannes Milke (YouTube, 2021)
+
 
 
 ## Author
